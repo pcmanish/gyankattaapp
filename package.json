@@ -1,14 +1,14 @@
 {
-  "name": "moodlemobile",
+  "name": "Gyankatta",
   "version": "3.9.5",
-  "description": "The official app for Moodle.",
+  "description": "The official app for Gyankatta.",
   "author": {
-    "name": "Moodle Pty Ltd.",
-    "email": "mobile@moodle.com"
+    "name": "Gyankatta Edu Pty Ltd.",
+    "email": "info@gyankatta.org"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/moodlehq/moodlemobile2.git"
+    "url": "https://github.com/pcmanish/gyankattaapp.git"
   },
   "license": "Apache-2.0",
   "licenses": [
